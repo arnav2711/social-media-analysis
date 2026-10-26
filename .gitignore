@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data files
+*.tsv
+*.npy
+qprop_cleaned_enhanced.csv
+my_env/.env
+.DS_Store
+.idea/
+.ipynb_checkpoints/
