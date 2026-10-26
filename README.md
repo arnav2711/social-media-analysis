@@ -83,12 +83,3 @@ svm_work_branch.py         Linear SVM
 qprop_data/, 3271522/      Dataset location (data files gitignored)
 ```
 
-## Credit
-
-Dataset: A. Barrón-Cedeño, G. Da San Martino, I. Jaradat, and P. Nakov. *Proppy: Organizing the news based on their propagandistic content.* Information Processing & Management 56(5), 1849–1864, 2019. https://doi.org/10.1016/j.ipm.2019.03.005
-
-Code based on the original project by Advait B.: https://github.com/advaitb2028/AI4SM_Propaganda_Analysis
-
-## Author
-
-Arnav Mody, Purdue University
