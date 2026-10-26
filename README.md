@@ -8,6 +8,7 @@ Propaganda detection on news articles using the QProp (Proppy 1.0) corpus. The r
 
 The `.tsv` files are gitignored because of their size, so download them from Zenodo and place them in `qprop_data/` (or `3271522/` for `tfidf_knn.py`):
 
+
 ```
 proppy_1.0.train.tsv
 proppy_1.0.dev.tsv
